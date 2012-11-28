@@ -1,7 +1,7 @@
-Kick Ass
+# Kick Ass
 Asteroids in the browser!
 http://kickassapp.com/
 
-KatHack
+# KatHack
 Katamari in the browser!
 http://kathack.com/
