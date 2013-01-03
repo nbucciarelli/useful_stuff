@@ -34,8 +34,6 @@ Have this task run every 10 minutes or so with Heroku Scheduler:
 
     $ rake app:call_page
 
-# Rails 4 Upgrade
-Helps you with deprecations and dependencies in preparation of Rails 4
-https://github.com/alindeman/rails4_upgrade
-
-    gem 'rails4_upgrade', github: 'alindeman/rails4_upgrade'
+# FastClick.js
+When clicking a link on mobile, reduces the time between click and link reaction:
+https://github.com/ftlabs/fastclick
