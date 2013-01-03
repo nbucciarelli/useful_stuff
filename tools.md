@@ -33,3 +33,7 @@ This version is for SSL:
 Have this task run every 10 minutes or so with Heroku Scheduler:
 
     $ rake app:call_page
+
+# FastClick.js
+When clicking a link on mobile, reduces the time between click and link reaction:
+https://github.com/ftlabs/fastclick
