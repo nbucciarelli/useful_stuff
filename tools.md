@@ -1,3 +1,7 @@
+# Web Developer Checklist
+Checklist for best practices and analysis tools
+git@github.com:mdms-scott/useful_stuff.git
+
 # DOM Monster
 Analyzes DOM and points out issues
 http://mir.aculo.us/dom-monster/
