@@ -41,3 +41,7 @@ Have this task run every 10 minutes or so with Heroku Scheduler:
 # FastClick.js
 When clicking a link on mobile, reduces the time between click and link reaction:
 https://github.com/ftlabs/fastclick
+
+# Heroku Fucking Console
+Heroku fucking console. And Heroku fucking rake.
+https://github.com/tpope/heroku-fucking-console
