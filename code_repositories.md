@@ -9,3 +9,7 @@ http://fabien-d.github.com/alertify.js/
 # Better Errors
 Better error window for Rails and Rack apps
 https://github.com/charliesome/better_errors
+
+# Intro js
+Introduction to our application
+http://usablica.github.com/intro.js/
