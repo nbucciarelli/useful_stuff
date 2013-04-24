@@ -13,3 +13,8 @@ https://github.com/charliesome/better_errors
 # Intro js
 Introduction to our application
 http://usablica.github.com/intro.js/
+
+# Handle recurring dates
+[Recurring Select](https://github.com/GetJobber/recurring_select)
+and
+[Ice Cube](https://github.com/seejohnrun/ice_cube)
