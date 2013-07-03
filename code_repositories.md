@@ -18,3 +18,10 @@ http://usablica.github.com/intro.js/
 [Recurring Select](https://github.com/GetJobber/recurring_select)
 and
 [Ice Cube](https://github.com/seejohnrun/ice_cube)
+
+# contracts.ruby
+contracts.ruby brings code contracts to the Ruby language. Code contracts allow you make some assertions about your code, and then checks them to make sure they hold. This lets you:
+- catch bugs faster
+- make it very easy to catch certain types of bugs
+- make sure that the user gets proper messaging when a bug occurs.
+[Contracts.ruby](http://egonschiele.github.io/contracts.ruby)
