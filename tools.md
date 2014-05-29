@@ -45,3 +45,7 @@ https://github.com/ftlabs/fastclick
 # Heroku Fucking Console
 Heroku fucking console. And Heroku fucking rake.
 https://github.com/tpope/heroku-fucking-console
+
+# Rails 3 Turbo Sprockets (fast asset compilation, especially when using a CDN)
+
+    gem 'turbo-sprockets-rails3', group: :assets
